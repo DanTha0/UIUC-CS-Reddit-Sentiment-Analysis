@@ -1,0 +1,1815 @@
+[
+    {
+        "id": "101",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/101.xml",
+        "title": "Intro Computing: Engrg & Sci",
+        "tags": {
+            "subject": "CS",
+            "description": "Quantitative Reasoning",
+            "creditHours": "3 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "MATH 220",
+                    "MATH 221",
+                    "MATH 231",
+                    "MATH 241"
+                ]
+            ],
+            "sectionDegreeAttributes": "Quantitative Reasoning II course",
+            "classScheduleInformation": "Students must register for one lab-discussion and one lecture section. Engineering students must obtain a dean's approval to drop this course after the second week of instruction",
+            "genEdAttribute": "Quantitative Reasoning II"
+        }
+    },
+    {
+        "id": "102",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/102.xml",
+        "title": "Little Bits to Big Ideas",
+        "tags": {
+            "subject": "CS",
+            "description": "Same as INFO 102. See INFO 102",
+            "creditHours": "4 hours",
+            "courseSectionInformation": "Same as INFO 102. See INFO 102"
+        }
+    },
+    {
+        "id": "105",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/105.xml",
+        "title": "Intro Computing: Non-Tech",
+        "tags": {
+            "subject": "CS",
+            "description": "Quantitative Reasoning",
+            "creditHours": "3 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "MATH 112"
+                ]
+            ],
+            "sectionDegreeAttributes": "Quantitative Reasoning I course",
+            "classScheduleInformation": "Students must register for one lab-discussion and one lecture section",
+            "genEdAttribute": "Quantitative Reasoning I"
+        }
+    },
+    {
+        "id": "107",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/107.xml",
+        "title": "Data Science Discovery",
+        "tags": {
+            "subject": "CS",
+            "description": "Quantitative Reasoning",
+            "creditHours": "4 hours",
+            "courseSectionInformation": "Same as IS 107 and STAT 107. See STAT 107",
+            "sectionDegreeAttributes": "Quantitative Reasoning I course",
+            "genEdAttribute": "Quantitative Reasoning I"
+        }
+    },
+    {
+        "id": "124",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/124.xml",
+        "title": "Introduction to Computer Science I",
+        "tags": {
+            "subject": "CS",
+            "description": "Quantitative Reasoning",
+            "creditHours": "3 hours",
+            "details": "Credit is not given for both CS 124 and CS 125",
+            "prereqs": [
+                [
+                    "Three years of high school mathematics",
+                    "MATH 112"
+                ]
+            ],
+            "sectionDegreeAttributes": "Quantitative Reasoning I course",
+            "genEdAttribute": "Quantitative Reasoning I"
+        }
+    },
+    {
+        "id": "128",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/128.xml",
+        "title": "Introduction to Computer Science II",
+        "tags": {
+            "subject": "CS",
+            "description": "Quantitative Reasoning",
+            "creditHours": "3 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "CS 124",
+                    "CS 125"
+                ]
+            ],
+            "sectionDegreeAttributes": "Quantitative Reasoning II course",
+            "genEdAttribute": "Quantitative Reasoning II"
+        }
+    },
+    {
+        "id": "173",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/173.xml",
+        "title": "Discrete Structures",
+        "tags": {
+            "subject": "CS",
+            "description": "[IAI Code: CS915] Discrete mathematical structures frequently encountered in the study of Computer Science. Sets, propositions, Boolean algebra, induction, recursion, relations, functions, and graphs. Credit is not given toward graduation for: Credit is not given for both CS 173 and MATH 213. Prerequisite: One of CS 124, CS 125, ECE 220; one of MATH 220, MATH 221",
+            "creditHours": "3 hours",
+            "details": "Credit is not given toward graduation for: Credit is not given for both CS 173 and MATH 213",
+            "prereqs": [
+                [
+                    "CS 124",
+                    "CS 125",
+                    "ECE 220"
+                ],
+                [
+                    "MATH 220",
+                    "MATH 221"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign"
+        }
+    },
+    {
+        "id": "199",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/199.xml",
+        "title": "Undergraduate Open Seminar in Computer Science",
+        "tags": {
+            "subject": "CS",
+            "description": "Topics vary. Approved for Letter and S/U grading. May be repeated",
+            "creditHours": "0 TO 5 hours",
+            "courseSectionInformation": "Approved for Letter and S/U grading. May be repeated",
+            "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign"
+        }
+    },
+    {
+        "id": "210",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/210.xml",
+        "title": "Ethical & Professional Issues",
+        "tags": {
+            "subject": "CS",
+            "description": "Ethics for the computing profession. Ethical decision-making; licensing; intellectual property, freedom of information, and privacy. Credit is not given for both CS 210 and either CS 211 or ECE 316. Prerequisite: CS 225. Junior standing required",
+            "creditHours": "2 hours",
+            "details": "Credit is not given for both CS 210 and either CS 211 or ECE 316",
+            "prereqs": []
+        }
+    },
+    {
+        "id": "211",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/211.xml",
+        "title": "Ethical and Professional Conduct",
+        "tags": {
+            "subject": "CS",
+            "description": "Advanced Composition",
+            "creditHours": "3 hours",
+            "details": "Credit is not given for both CS 211 and CS 210 or ECE 316",
+            "prereqs": [
+                [
+                    "CS 225"
+                ]
+            ],
+            "sectionDegreeAttributes": "Advanced Composition course",
+            "genEdAttribute": "Advanced Composition"
+        }
+    },
+    {
+        "id": "222",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/222.xml",
+        "title": "Software Design Lab",
+        "tags": {
+            "subject": "CS",
+            "description": "Design and implementation of novel software solutions. Problem identification and definition; idea generation and evaluation; and software implementation, testing, and deployment. Emphasizes software development best practices—including framework selection, code review, documentation, appropriate library usage, project management, continuous integration and testing, and teamwork. Prerequisite: CS 128; credit or concurrent registration in CS 225. Restricted to majors in Computer Science undergraduate curricula only",
+            "creditHours": "1 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "CS 128"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Statistics & Computer Science or Math & Computer Science or Computer Sci & Anthropology or Computer Sci & Astronomy or Computer Sci & Chemistry or Computer Sci & Linguistics or Computer Science&Crop Sciences or Computer Science and Music or Computer Science & Economics or Computer Science & Advertising or Computer Science & Geog & GIS or Computer Science & Philosophy or Computer Sci & Animal Sci or Computer Science & Education or Computer Science and Physics or ComputerScience&Bioengineering major(s). Restricted to Undergrad - Urbana-Champaign"
+        }
+    },
+    {
+        "id": "225",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/225.xml",
+        "title": "Data Structures",
+        "tags": {
+            "subject": "CS",
+            "description": "Quantitative Reasoning",
+            "creditHours": "4 hours",
+            "details": "Credit is not given toward graduation for: CS 277 if credit for CS 225 has been earned",
+            "prereqs": [
+                [
+                    "CS 126",
+                    "CS 128",
+                    "ECE 220"
+                ],
+                [
+                    "CS 173",
+                    "CS 413",
+                    "MATH 213",
+                    "MATH 314",
+                    "MATH 347",
+                    "MATH 412",
+                    "MATH 413"
+                ]
+            ],
+            "sectionDegreeAttributes": "Quantitative Reasoning II course",
+            "classScheduleInformation": "Students must register for one laboratory-discussion and one lecture section",
+            "genEdAttribute": "Quantitative Reasoning II"
+        }
+    },
+    {
+        "id": "233",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/233.xml",
+        "title": "Computer Architecture",
+        "tags": {
+            "subject": "CS",
+            "description": "Fundamentals of computer architecture: digital logic design, working up from the logic gate level to understand the function of a simple computer; machine-level programming to understand implementation of high-level languages; performance models of modern computer architectures to enable performance optimization of software; hardware primitives for parallelism and security. Prerequisite: CS 125 or CS 128; CS 173 or MATH 213; credit or concurrent enrollment in CS 225",
+            "creditHours": "4 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "CS 125",
+                    "CS 128"
+                ],
+                [
+                    "CS 173",
+                    "MATH 213"
+                ],
+                [
+                    "concurrent enrollment in",
+                    "CS 225"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign. Not intended for BS:Computer Engineering -UIUC or BS:Electrical Engineerng -UIUC"
+        }
+    },
+    {
+        "id": "266",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/266.xml",
+        "title": "Community Innovation",
+        "tags": {
+            "subject": "CS",
+            "description": "Cultural Studies",
+            "creditHours": "3 hours",
+            "courseSectionInformation": "Same as IS 266 and MACS 266. See IS 266",
+            "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign",
+            "sectionDegreeAttributes": "Social & Beh Sci - Soc Sci, and Cultural Studies - Western course",
+            "genEdAttribute": "Cultural Studies - Western"
+        }
+    },
+    {
+        "id": "277",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/277.xml",
+        "title": "Algorithms and Data Structures for Data Science",
+        "tags": {
+            "subject": "CS",
+            "description": "Introduction to elementary concepts in algorithms and classical data structures with a focus on their applications in Data Science. Topics include algorithm analysis (ex: Big-O notation), elementary data structures (ex: lists, stacks, queues, trees, and graphs), basics of discrete algorithm design principles (ex: greedy, divide and conquer, dynamic programming), and discussion of discrete and continuous optimization. Credit is not given for CS 277 if credit for CS 225 is earned. Prerequisite: STAT 207; one of MATH 220, MATH 221, MATH 234. CS 277 cannot be taken concurrently with CS 225",
+            "creditHours": "4 hours",
+            "details": "Credit is not given for CS 277 if credit for CS 225 is earned",
+            "prereqs": [
+                [
+                    "STAT 207"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign",
+            "sectionCappArea": "Not intended for CS and blended CS majors students"
+        }
+    },
+    {
+        "id": "307",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/307.xml",
+        "title": "Modeling and Learning in Data Science",
+        "tags": {
+            "subject": "CS",
+            "description": "Introduction to the use of classical approaches in data modeling and machine learning in the context of solving data-centric problems. A broad coverage of fundamental models is presented, including linear models, unsupervised learning, supervised learning, and deep learning. A significant emphasis is placed on the application of the models in Python and the interpretability of the results. Prerequisite: STAT 207; one of MATH 225, MATH 227, MATH 257, MATH 415, MATH 416, ASRM 406",
+            "creditHours": "4 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "STAT 207"
+                ],
+                [
+                    "MATH 225",
+                    "MATH 227",
+                    "MATH 257",
+                    "MATH 415",
+                    "MATH 416",
+                    "ASRM 406"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign"
+        }
+    },
+    {
+        "id": "340",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/340.xml",
+        "title": "Introduction to Computer Systems",
+        "tags": {
+            "subject": "CS",
+            "description": "Basics of computer systems. Number representations, assembly/machine language, abstract models of processors (fetch/execute, memory hierarchy), processes/process control, simple memory management, file I/O and directories, network programming, usage of cloud services. Credit is not given for both CS 340 and CS 240. Prerequisite: CS 128 and CS 225",
+            "creditHours": "3 hours",
+            "details": "Credit is not given for both CS 340 and CS 240",
+            "prereqs": [
+                [
+                    "CS 128"
+                ],
+                [
+                    "CS 225"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign",
+            "sectionCappArea": "Restricted to CS and blended CS majors students"
+        }
+    },
+    {
+        "id": "341",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/341.xml",
+        "title": "System Programming",
+        "tags": {
+            "subject": "CS",
+            "description": "Basics of system programming, including POSIX processes, process control, inter-process communication, synchronization, signals, simple memory management, file I/O and directories, shell programming, socket network programming, RPC programming in distributed systems, basic security mechanisms, and standard tools for systems programming such as debugging tools. Credit is not given for both CS 341 and either CS 241 or ECE 391. Prerequisite: CS 225 and CS 233",
+            "creditHours": "4 hours",
+            "details": "Credit is not given for both CS 341 and either CS 241 or ECE 391",
+            "prereqs": [
+                [
+                    "CS 225"
+                ],
+                [
+                    "CS 233"
+                ]
+            ],
+            "classScheduleInformation": "Students must register for one lecture and one discussion section"
+        }
+    },
+    {
+        "id": "357",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/357.xml",
+        "title": "Numerical Methods I",
+        "tags": {
+            "subject": "CS",
+            "description": "Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines. (Counts for advanced hours in LAS). Same as MATH 357. Credit is not given toward graduation for: Credit is not given towards graduation for CS 357 if credit for CS 450 has been earned. Prerequisite: One of CS 101, CS 105, CS 124, CS 125 or ECE 220; MATH 241; one of MATH 225, MATH 227, MATH 257, MATH 415, MATH 416, ASRM 406 or BIOE 210",
+            "creditHours": "3 hours",
+            "details": "(Counts for advanced hours in LAS). Same as MATH 357. Credit is not given toward graduation for: Credit is not given towards graduation for CS 357 if credit for CS 450 has been earned",
+            "prereqs": [
+                [
+                    "CS 101",
+                    "CS 105",
+                    "CS 124",
+                    "CS 125",
+                    "ECE 220"
+                ],
+                [
+                    "MATH 241"
+                ],
+                [
+                    "MATH 225",
+                    "MATH 227",
+                    "MATH 257",
+                    "MATH 415",
+                    "MATH 416",
+                    "ASRM 406",
+                    "BIOE 210"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign"
+        }
+    },
+    {
+        "id": "361",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/361.xml",
+        "title": "Probability & Statistics for Computer Science",
+        "tags": {
+            "subject": "CS",
+            "description": "Introduction to probability theory and statistics with applications to computer science. Topics include: visualizing datasets, summarizing data, basic descriptive statistics, conditional probability, independence, Bayes theorem, random variables, joint and conditional distributions, expectation, variance and covariance, central limit theorem. Markov inequality, Chebyshev inequality, law of large numbers, Markov chains, simulation, the PageRank algorithm, populations and sampling, sample mean, standard error, maximum likelihood estimation, Bayes estimation, hypothesis testing, confidence intervals, linear regression, principal component analysis, classification, and decision trees. Same as STAT 361. Credit is not given for both CS 361 and ECE 313. Prerequisite: MATH 220 or MATH 221; credit or concurrent registration in one of MATH 225, MATH 257, MATH 415, MATH 416 or ASRM 406. For majors only",
+            "creditHours": "3 hours",
+            "details": "Same as STAT 361. Credit is not given for both CS 361 and ECE 313",
+            "prereqs": [
+                [
+                    "MATH 220",
+                    "MATH 221"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "374",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/374.xml",
+        "title": "Introduction to Algorithms & Models of Computation",
+        "tags": {
+            "subject": "CS",
+            "description": "Analysis of algorithms, major paradigms of algorithm design including recursive algorithms, divide-and-conquer algorithms, dynamic programming, greedy algorithms, and graph algorithms. Formal models of computation including finite automata and Turing machines. Limitations of computation arising from fundamental notions of algorithm and from complexity-theoretic constraints. Reductions, undecidability and NP-completeness. Same as ECE 374. Prerequisite: One of CS 173, MATH 213; CS 225",
+            "creditHours": "4 hours",
+            "details": "Same as ECE 374",
+            "prereqs": [
+                [
+                    "CS 173",
+                    "MATH 213"
+                ],
+                [
+                    "CS 225"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "397",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/397.xml",
+        "title": "Individual Study",
+        "tags": {
+            "subject": "CS",
+            "description": "May be repeated. Prerequisite: Consent of instructor",
+            "creditHours": "1 TO 3 hours",
+            "details": "May be repeated",
+            "prereqs": [
+                [
+                    "Consent of instructor"
+                ]
+            ],
+            "sectionApprovalCode": "Instructor Approval Required"
+        }
+    },
+    {
+        "id": "398",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/398.xml",
+        "title": "Special Topics",
+        "tags": {
+            "subject": "CS",
+            "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. May be repeated in the same or separate terms if topics vary",
+            "creditHours": "1 TO 4 hours",
+            "courseSectionInformation": "May be repeated in the same or separate terms if topics vary",
+            "sectionRegistrationNotes": "Not intended for Nuclear, Plasma, Radiolgc Engr major(s). Restricted to Undergrad - Urbana-Champaign"
+        }
+    },
+    {
+        "id": "402",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/402.xml",
+        "title": "Accelerated Fundamentals of Computing II",
+        "tags": {
+            "subject": "CS",
+            "description": "Provides an accelerated introduction to class-based program design and the design of abstractions that support the design of reusable software and libraries. It reviews typical object-oriented concepts such as information hiding, encapsulation, polymorphism, inheritance, composition, and common design patterns. The course will also covers exception handling, database programming, and concurrent programming. No undergraduate credit. 3 graduate hours. Prerequisite: CS 400 or consent of instructor. Current enrollment in the Illinois Computing Accelerator for Non-specialists (iCAN) program or consent of instructor. Restricted to post-baccalaureate students with a non-computing background",
+            "creditHours": "3 hours",
+            "details": "No undergraduate credit. 3 graduate hours",
+            "prereqs": [],
+            "sectionRegistrationNotes": "Restricted to GCRT:ComputingFundam - UIUC or GCRT:ComputingFundam ONL- UIUC"
+        }
+    },
+    {
+        "id": "403",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/403.xml",
+        "title": "Accelerated Fundamentals of Algorithms II",
+        "tags": {
+            "subject": "CS",
+            "description": "The second class in a sequence of two classes that introduces students to the theoretical foundations of computer science. Topics include major paradigms of algorithm design divide and conquer, greedy, recursive, and dynamic programming; solving recurrences and analysis of divide and conquer algorithms; graph algorithms; formal models of computations like finite state automata and Turing machines; reductions. No undergraduate credit. 3 graduate hours. Prerequisite: CS 401 or consent of instructor. Current enrollment in the Illinois Computing Accelerator for Non-specialists (iCAN) program or consent of instructor. Restricted to post-baccalaureate students with a non-computing background",
+            "creditHours": "3 hours",
+            "details": "No undergraduate credit. 3 graduate hours",
+            "prereqs": [],
+            "sectionRegistrationNotes": "Restricted to GCRT:ComputingFundam - UIUC or GCRT:ComputingFundam ONL- UIUC"
+        }
+    },
+    {
+        "id": "407",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/407.xml",
+        "title": "Cryptography",
+        "tags": {
+            "subject": "CS",
+            "description": "Same as ECE 407. See ECE 407",
+            "creditHours": "3 OR 4 hours",
+            "courseSectionInformation": "Same as ECE 407. See ECE 407"
+        }
+    },
+    {
+        "id": "410",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/410.xml",
+        "title": "Text Information Systems",
+        "tags": {
+            "subject": "CS",
+            "description": "Theory, design, and implementation of text-based information systems. Text analysis, retrieval models (e.g., Boolean, vector space, probabilistic), text categorization, text filtering, clustering, retrieval system design and implementation, and applications to web information management. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "411",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/411.xml",
+        "title": "Database Systems",
+        "tags": {
+            "subject": "CS",
+            "description": "Examination of the logical organization of databases: the entity-relationship model; the hierarchical, network, and relational data models and their languages. Functional dependencies and normal forms. Design, implementation, and optimization of query languages; security and integrity; concurrency control, and distributed database systems. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "412",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/412.xml",
+        "title": "Introduction to Data Mining",
+        "tags": {
+            "subject": "CS",
+            "description": "Concepts, techniques, and systems of data warehousing and data mining. Design and implementation of data warehouse and on-line analytical processing (OLAP) systems; data mining concepts, methods, systems, implementations, and applications. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "413",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/413.xml",
+        "title": "Intro to Combinatorics",
+        "tags": {
+            "subject": "CS",
+            "description": "Same as MATH 413. See MATH 413",
+            "creditHours": "3 OR 4 hours",
+            "courseSectionInformation": "Same as MATH 413. See MATH 413"
+        }
+    },
+    {
+        "id": "415",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/415.xml",
+        "title": "Game Development",
+        "tags": {
+            "subject": "CS",
+            "description": "A team and project-based course on the technical aspects of video game development and game engine internals: geometric modeling, game physics and AI, shader programming, real-time physically based rendering, and software engineering practices within the game industry. The central focus of the course is the development of a game by teams of 3 to 5 students. The course strongly emphasizes code development using a modern game engine. Students will gain skills necessary to develop games and to develop game engines. 3 undergraduate hours. 4 graduate hours. Prerequisite: CS 225",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "417",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/417.xml",
+        "title": "Virtual Reality",
+        "tags": {
+            "subject": "CS",
+            "description": "Provides both a deep understanding of the fundamentals of virtual reality (VR) and practical experience implementing VR systems. Topics covered include visual and audio display technology, tracking, human perception and psychophysics, building user interfaces for VR, and analyzing VR experiences. 3 undergraduate hours. 4 graduate hours. Prerequisite: CS 225",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "421",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/421.xml",
+        "title": "Programming Languages & Compilers",
+        "tags": {
+            "subject": "CS",
+            "description": "Structure of programming languages and their implementation. Basic language design principles; abstract data types; functional languages; type systems; object-oriented languages. Basics of lexing, parsing, syntax-directed translation, semantic analysis, and code generation. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: One of CS 233, CS 240, CS 340 or ECE 391; CS 374 or ECE 374; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406, or BIOE 210",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 233",
+                    "CS 240",
+                    "CS 340",
+                    "ECE 391"
+                ],
+                [
+                    "CS 374",
+                    "ECE 374"
+                ],
+                [
+                    "MATH 225",
+                    "MATH 257",
+                    "MATH 415",
+                    "MATH 416",
+                    "ASRM 406",
+                    "BIOE 210"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "423",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/423.xml",
+        "title": "Operating Systems Design",
+        "tags": {
+            "subject": "CS",
+            "description": "Organization and structure of modern operating systems and concurrent programming concepts. Deadlock, virtual memory, processor scheduling, and disk systems. Performance, security, and protection. Same as CSE 423. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: One of CS 241, CS 341, or ECE 391",
+            "creditHours": "3 OR 4 hours",
+            "details": "Same as CSE 423. 3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 241",
+                    "CS 341",
+                    "ECE 391"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "425",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/425.xml",
+        "title": "Distributed Systems",
+        "tags": {
+            "subject": "CS",
+            "description": "Protocols, specification techniques, global states and their determination, reliable broadcast, transactions and commitment, security, and real-time systems. Same as ECE 428. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Prerequisite: Credit or concurrent enrollment in one of CS 240, CS 241, CS 340, CS 341 or ECE 391",
+            "creditHours": "3 OR 4 hours",
+            "details": "Same as ECE 428. 3 or 4 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "concurrent enrollment in one of",
+                    "CS 240",
+                    "CS 241",
+                    "CS 340",
+                    "CS 341",
+                    "ECE 391"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "427",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/427.xml",
+        "title": "Software Engineering I",
+        "tags": {
+            "subject": "CS",
+            "description": "Software process, analysis and design. Software development paradigms, system engineering, function-based analysis and design, and object-oriented analysis and design. Course will use team-projects for hands-on exercises. Same as CSE 426. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: One of CS 222, CS 240, CS 241, CS 340, CS 341 or ECE 391",
+            "creditHours": "3 OR 4 hours",
+            "details": "Same as CSE 426. 3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 222",
+                    "CS 240",
+                    "CS 241",
+                    "CS 340",
+                    "CS 341",
+                    "ECE 391"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "431",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/431.xml",
+        "title": "Embedded Systems",
+        "tags": {
+            "subject": "CS",
+            "description": "Students will learn embedded system architecture, Real-Time Operating Systems, and real-time software design and development techniques, including 1) real-time software designs, practical signal processing, and control techniques in embedded applications, including the safe use of machine learning, and 2) the schedulability analysis to ensure deadlines of tasks are met. In the lab, students will practice what they learn in the class so that their software can drive a two-wheeled robot car along a course and avoid obstacles autonomously. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: One of CS 241, CS 341 or ECE 391",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 241",
+                    "CS 341",
+                    "ECE 391"
+                ]
+            ],
+            "classScheduleInformation": "Students must register for one lab and one lecture section"
+        }
+    },
+    {
+        "id": "433",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/433.xml",
+        "title": "Computer System Organization",
+        "tags": {
+            "subject": "CS",
+            "description": "Computer hardware design and analysis and interface with software. Advanced processor design, including superscalar, out-of-order issue, branch prediction, and speculation. Memory hierarchy design, including advanced cache optimizations, main memory, and virtual memory. Principles of multiprocessor design, including shared-memory, cache coherence, synchronization, and consistency. Other advanced topics depending on time; e.g., GPUs and accelerators, warehouse computers and data centers, security. Same as CSE 422. 3 undergraduate hours. 4 graduate hours. Prerequisite: CS 233",
+            "creditHours": "3 OR 4 hours",
+            "details": "Same as CSE 422. 3 undergraduate hours. 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 233"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "434",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/434.xml",
+        "title": "Real World Algorithms for IoT and Data Science",
+        "tags": {
+            "subject": "CS",
+            "description": "Same as ECE 434. See ECE 434",
+            "creditHours": "3 OR 4 hours",
+            "courseSectionInformation": "Same as ECE 434. See ECE 434"
+        }
+    },
+    {
+        "id": "435",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/435.xml",
+        "title": "Cloud Networking",
+        "tags": {
+            "subject": "CS",
+            "description": "Provides a foundational view of computer networks with a focus on enabling modern large-scale cloud computing. The first part of this course studies the principles upon which the Internet and other networks are built, and how those principles translate into deployed protocols. The second part covers how those principles are applied in network infrastructure for modern clouds, enabling deployment of virtual networks on shared infrastructure, efficient transfer of big data and low latency communication, and federation of applications across countries and continents. 3 undergraduate hours. 4 graduate hours. Credit is not given for both CS 435 and CS 438/ECE 438. Prerequisite: One of CS 240, CS 241, CS 340, CS 341 or ECE 391",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 4 graduate hours. Credit is not given for both CS 435 and CS 438/ECE 438",
+            "prereqs": [
+                [
+                    "CS 240",
+                    "CS 241",
+                    "CS 340",
+                    "CS 341",
+                    "ECE 391"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "437",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/437.xml",
+        "title": "Topics in Internet of Things",
+        "tags": {
+            "subject": "CS",
+            "description": "Topics of networked embedded computing technology, known as the Internet of Things, in application, distributed, human-centric, or social contexts. The tight coupling between people, networking protocols, computing elements, and physical things in IoT systems presents unique challenges for data collection, processing in constrained computation and communication environments. Introduces general principles of IoT systems and protocol, offers broad foundations for IoT services, and allows specialization to pursue an in-depth understanding of selected IoT aspects or subtopics. 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Credit towards a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the CS department. Prerequisite: CS 241 or CS 341. Additional prerequisites may be specified each term. See section information",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Credit towards a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the CS department",
+            "prereqs": []
+        }
+    },
+    {
+        "id": "438",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/438.xml",
+        "title": "Communication Networks",
+        "tags": {
+            "subject": "CS",
+            "description": "Layered architectures and the OSI Reference Model; design issues and protocols in the transport, network, and data link layers; architectures and control algorithms of local-area, point-to-point, and satellite networks; standards in networks access protocols; models of network interconnection; overview of networking and communication software. Same as ECE 438. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: One of CS 241, CS 341 or ECE 391; strongly recommend one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463 or STAT 400",
+            "creditHours": "3 OR 4 hours",
+            "details": "Same as ECE 438. 3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 241",
+                    "CS 341",
+                    "ECE 391"
+                ],
+                [
+                    "strongly recommend one of",
+                    "CS 361",
+                    "STAT 361",
+                    "ECE 313",
+                    "MATH 362",
+                    "MATH 461",
+                    "MATH 463",
+                    "STAT 400"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "440",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/440.xml",
+        "title": "Artificial Intelligence",
+        "tags": {
+            "subject": "CS",
+            "description": "Major topics in and directions of research in artificial intelligence: basic problem solving techniques, knowledge representation and computer inference, machine learning, natural language understanding, computer vision, robotics, and societal impacts. Same as ECE 448. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225; one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463, STAT 400 or BIOE 310",
+            "creditHours": "3 OR 4 hours",
+            "details": "Same as ECE 448. 3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225"
+                ],
+                [
+                    "CS 361",
+                    "STAT 361",
+                    "ECE 313",
+                    "MATH 362",
+                    "MATH 461",
+                    "MATH 463",
+                    "STAT 400",
+                    "BIOE 310"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "441",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/441.xml",
+        "title": "Applied Machine Learning",
+        "tags": {
+            "subject": "CS",
+            "description": "Techniques of machine learning to various signal problems: regression, including linear regression, multiple regression, regression forest and nearest neighbors regression; classification with various methods, including logistic regression, support vector machines, nearest neighbors, simple boosting and decision forests; clustering with various methods, including basic agglomerative clustering and k-means; resampling methods, including cross-validation and the bootstrap; model selection methods, including AIC, stepwise selection and the lasso; hidden Markov models; model estimation in the presence of missing variables; and neural networks, including deep networks. The course will focus on tool-oriented and problem-oriented exposition. Application areas include computer vision, natural language, interpreting accelerometer data, and understanding audio data. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: One of CS 225 or CS 277, and one of CS 361, STAT 361, ECE 313, BIOE 310, MATH 362, MATH 461, MATH 463 or STAT 400",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225",
+                    "CS 277,"
+                ],
+                [
+                    "CS 361",
+                    "STAT 361",
+                    "ECE 313",
+                    "BIOE 310",
+                    "MATH 362",
+                    "MATH 461",
+                    "MATH 463",
+                    "STAT 400"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "442",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/442.xml",
+        "title": "Trustworthy Machine Learning",
+        "tags": {
+            "subject": "CS",
+            "description": "Prepares students to understand the security and privacy problems in machine learning and educates students to propose different attack strategies to identify the vulnerabilities of a range of learning algorithms and understand different defense approaches towards trustworthy machine learning systems. Students will explore topics including basic machine learning foundations (e.g., linear regression and PCA), adversarial attacks against different learning algorithms, differential privacy, data valuation, and different categories of defenses. The lessons are reinforced via a series of topic-driven lectures, coding assignments, related paper readings, exams and in-class discussions. Students will learn to analyze current interactions between attackers and defenders on machine learning and therefore develop an understanding of the principles on trustworthy machine learning which is an emerging and important topic. Students will be required to finish three related homework projects, including 1) developing a machine learning classifier, 2) designing adversarial attacks against the built classifier, and 3) developing defenses to improve the robustness of the trained classifier against designed attacks. Students registered for 4 credit hours will also finish a final project based on the class topics, demonstrating their ability to propose related new algorithms based on the class subjects. 3 undergraduate hours. 4 graduate hours. Prerequisite: CS 225; one of CS 440, ECE 448, CS 441, CS 446 or ECE 449; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406 or BIOE 210",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225"
+                ],
+                [
+                    "CS 440",
+                    "ECE 448",
+                    "CS 441",
+                    "CS 446",
+                    "ECE 449"
+                ],
+                [
+                    "MATH 225",
+                    "MATH 257",
+                    "MATH 415",
+                    "MATH 416",
+                    "ASRM 406",
+                    "BIOE 210"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "443",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/443.xml",
+        "title": "Reinforcement Learning",
+        "tags": {
+            "subject": "CS",
+            "description": "Fundamental concepts and basic algorithms in Reinforcement Learning (RL) - a machine learning paradigm for sequential decision-making. The goal of this course is to enable students to (1) understand the mathematical framework of RL, (2) tell what problems can be solved with RL, and how to cast these problems into the RL formulation, (3) understand why and how RL algorithms are designed to work, and (4) know how to experimentally and mathematically evaluate the effectiveness of an RL algorithm. There will be both programming and written assignments. 3 undergraduate hours. 4 graduate hours. Prerequisite: CS 225; MATH 241; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406 or BIOE 210; one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463 or STAT 400",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225"
+                ],
+                [
+                    "MATH 241"
+                ],
+                [
+                    "MATH 225",
+                    "MATH 257",
+                    "MATH 415",
+                    "MATH 416",
+                    "ASRM 406",
+                    "BIOE 210"
+                ],
+                [
+                    "CS 361",
+                    "STAT 361",
+                    "ECE 313",
+                    "MATH 362",
+                    "MATH 461",
+                    "MATH 463",
+                    "STAT 400"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "444",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/444.xml",
+        "title": "Deep Learning for Computer Vision",
+        "tags": {
+            "subject": "CS",
+            "description": "Provides an elementary hands-on introduction to neural networks and deep learning with an emphasis on computer vision applications. Topics include: linear classifiers; multi-layer neural networks; back-propagation and stochastic gradient descent; convolutional neural networks and their applications to object detection and dense image labeling; recurrent neural networks and state-of-the-art sequence models like transformers; generative adversarial networks and variational autoencoders for image generation; and deep reinforcement learning. Coursework will consist of programming assignments in a common deep learning framework. Those registered for 4 credit hours will have to complete a project. Same as ECE 494. 3 undergraduate hours. 4 graduate hours. Prerequisite: MATH 241; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406, or BIOE 210; CS 225; one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463 or STAT 400. No previous exposure to machine learning is required",
+            "creditHours": "3 OR 4 hours",
+            "details": "Same as ECE 494. 3 undergraduate hours. 4 graduate hours",
+            "prereqs": [
+                [
+                    "MATH 241"
+                ],
+                [
+                    "MATH 225",
+                    "MATH 257",
+                    "MATH 415",
+                    "MATH 416",
+                    "ASRM 406",
+                    "BIOE 210"
+                ],
+                [
+                    "CS 225"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "445",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/445.xml",
+        "title": "Computational Photography",
+        "tags": {
+            "subject": "CS",
+            "description": "Computer vision techniques to enhance, manipulate, and create media from photo collections, such as panoramic stitching, face morphing, texture synthesis, blending, and 3D reconstruction. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225, MATH 225, and MATH 231",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225",
+                    "MATH 225,"
+                ],
+                [
+                    "MATH 231"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "446",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/446.xml",
+        "title": "Machine Learning",
+        "tags": {
+            "subject": "CS",
+            "description": "Principles and applications of machine learning. Main paradigms and techniques, including discriminative and generative methods, reinforcement learning: linear regression, logistic regression, support vector machines, deep nets, structured methods, dimensionality reduction, k-means, Gaussian mixtures, expectation maximization, Markov decision processes, and Q-learning. Application areas such as natural language and text understanding, speech recognition, computer vision, data mining, and adaptive computer systems, among others. Same as ECE 449. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225; One of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406 or BIOE 210; one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463, STAT 400 or BIOE 310",
+            "creditHours": "3 OR 4 hours",
+            "details": "Same as ECE 449. 3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225"
+                ],
+                [
+                    "MATH 225",
+                    "MATH 257",
+                    "MATH 415",
+                    "MATH 416",
+                    "ASRM 406",
+                    "BIOE 210"
+                ],
+                [
+                    "CS 361",
+                    "STAT 361",
+                    "ECE 313",
+                    "MATH 362",
+                    "MATH 461",
+                    "MATH 463",
+                    "STAT 400",
+                    "BIOE 310"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "447",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/447.xml",
+        "title": "Natural Language Processing",
+        "tags": {
+            "subject": "CS",
+            "description": "Part-of-speech tagging, parsing, semantic analysis and machine translation. Relevant linguistics concepts from morphology (word formation) and lexical semantics (the meaning of words) to syntax (sentence structure) and compositional semantics (the meaning of sentences). 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: One of CS 173 or MATH 213; CS 225; CS 374 or ECE 374; one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463, STAT 400 or BIOE 310; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406 or BIOE 210",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 173",
+                    "MATH 213"
+                ],
+                [
+                    "CS 225"
+                ],
+                [
+                    "CS 374",
+                    "ECE 374"
+                ],
+                [
+                    "CS 361",
+                    "STAT 361",
+                    "ECE 313",
+                    "MATH 362",
+                    "MATH 461",
+                    "MATH 463",
+                    "STAT 400",
+                    "BIOE 310"
+                ],
+                [
+                    "MATH 225",
+                    "MATH 257",
+                    "MATH 415",
+                    "MATH 416",
+                    "ASRM 406",
+                    "BIOE 210"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "448",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/448.xml",
+        "title": "Audio Computing Laboratory",
+        "tags": {
+            "subject": "CS",
+            "description": "Computational foundations of modern audio applications: theory of audio processing for implementation of applications such as room and 3D/virtual audio rendering, pitch manipulations and autotuning, denoising for communications and forensics, audio classification, music information retrieval based on audio, rudimentary speech recognition, speech and audio coding, applications of machine learning to audio scene recognition, audio restoration, missing data recovery, and many more. This will be a lab-like course in which students collectively implement a variety of core audio operations that are commonplace today. Students will be required to bring to class their laptops and headphones to participate in lab exercises. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: One of CS 240, CS 241, CS 340, CS 341, or ECE 391; one of MATH 225, MATH 257, MATH 415, MATH 416, ASRM 406, or BIOE 210",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 240",
+                    "CS 241",
+                    "CS 340",
+                    "CS 341",
+                    "ECE 391"
+                ],
+                [
+                    "MATH 225",
+                    "MATH 257",
+                    "MATH 415",
+                    "MATH 416",
+                    "ASRM 406",
+                    "BIOE 210"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "450",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/450.xml",
+        "title": "Numerical Analysis",
+        "tags": {
+            "subject": "CS",
+            "description": "Linear system solvers, optimization techniques, interpolation and approximation of functions, solving systems of nonlinear equations, eigenvalue problems, least squares, and quadrature; numerical handling of ordinary and partial differential equations. Same as CSE 401, ECE 491, and MATH 450. 3 undergraduate hours. 3 or 4 graduate hours. Credit is not given toward graduation for both CS 450 and CS 457. Prerequisite: One of CS 101, CS 124 or CS 125; one of CS 357, MATH 257, MATH 357, MATH 415, or MATH 416; MATH 285",
+            "creditHours": "3 OR 4 hours",
+            "details": "Same as CSE 401, ECE 491, and MATH 450. 3 undergraduate hours. 3 or 4 graduate hours. Credit is not given toward graduation for both CS 450 and CS 457",
+            "prereqs": [
+                [
+                    "CS 101",
+                    "CS 124",
+                    "CS 125"
+                ],
+                [
+                    "CS 357",
+                    "MATH 257",
+                    "MATH 357",
+                    "MATH 415",
+                    "MATH 416"
+                ],
+                [
+                    "MATH 285"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "461",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/461.xml",
+        "title": "Computer Security I",
+        "tags": {
+            "subject": "CS",
+            "description": "Fundamental principles of computer and communications security and information assurance: ethics, privacy, notions of threat, vulnerabilities, and risk in systems, information warfare, malicious software, data secrecy and integrity issues, network security, trusted computing, mandatory and discretionary access controls, certification and accreditation of systems against security standards. Security mechanisms: authentication, auditing, intrusion detection, access control, cryptography, security protocols, key distribution. Same as ECE 422. 4 undergraduate hours. 4 graduate hours. Prerequisite: One of CS 241, CS 341 or ECE 391, or a combination of CS 233 and CS 340",
+            "creditHours": "4 hours",
+            "details": "Same as ECE 422. 4 undergraduate hours. 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 241",
+                    "CS 341",
+                    "ECE 391",
+                    "or a combination of",
+                    "CS 233"
+                ],
+                [
+                    "CS 340"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "462",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/462.xml",
+        "title": "Issues of Law and Policy in Computer Science",
+        "tags": {
+            "subject": "CS",
+            "description": "Exploration of the intersection of public policy and computing technology: overview of the US legal system and government, how computing technology is regulated in areas such as privacy, crime, intellectual property, commerce, and national security. Students will complete technical projects related to legal issues, such as scrutinizing DRM, evaluating digital forensics reports, and critiquing software patents. Students will also scrutinize excerpts from legal opinions. 3 undergraduate hours. 4 graduate hours. Credit is not given toward graduation for: Credit is not given for both CS 462 and CS 498, Law &Policy Issues in CS. Prerequisite: CS 340 or CS 341 or ECE 391",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 4 graduate hours. Credit is not given toward graduation for: Credit is not given for both CS 462 and CS 498, Law &Policy Issues in CS",
+            "prereqs": [
+                [
+                    "CS 340",
+                    "CS 341",
+                    "ECE 391"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "463",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/463.xml",
+        "title": "Computer Security II",
+        "tags": {
+            "subject": "CS",
+            "description": "Program security, trusted base, privacy, anonymity, non-interference, information flow, confinement, advanced auditing, forensics, intrusion detection, key management and distribution, policy composition and analysis, formal approaches to specification and verification of secure systems and protocols, and topics in applied cryptography. Same as ECE 424. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225 and one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463 or STAT 400. CS 441 completion is recommended",
+            "creditHours": "3 OR 4 hours",
+            "details": "Same as ECE 424. 3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "464",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/464.xml",
+        "title": "Topics in Societal and Ethical Impacts of Computer Technology",
+        "tags": {
+            "subject": "CS",
+            "description": "Topics selected from key current areas of impact of computer technology on aspects of society and ethics such as: freedom versus the rule of law in cyberspace; social discourse; privacy; livelihoods and automation; fairness; security; political change; business models; technology divide. 3 undergraduate hours. No graduate credit. May be repeated if topics vary. Credit is not given towards a degree from multiple offerings of this course, if those offerings have significant overlap, as determined by the CS department. Prerequisite: CS 225. One of CS 210 or CS 211 or ECE 316 or PHIL 316. One of CS 361 or STAT 400 or STAT 200. Restricted to students with senior standing",
+            "creditHours": "3 hours",
+            "details": "3 undergraduate hours. No graduate credit. May be repeated if topics vary. Credit is not given towards a degree from multiple offerings of this course, if those offerings have significant overlap, as determined by the CS department",
+            "prereqs": [],
+            "sectionRegistrationNotes": "Restricted to students with Junior or Senior class standing. Restricted to Undergrad - Urbana-Champaign. Not intended for MCS:BS/MCS Computer Sci -UIUC"
+        }
+    },
+    {
+        "id": "466",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/466.xml",
+        "title": "Introduction to Bioinformatics",
+        "tags": {
+            "subject": "CS",
+            "description": "Algorithmic approaches in bioinformatics: (i) biological problems that can be solved computationally (e.g., discovering genes, and interactions among different genes and proteins); (ii) algorithmic techniques with wide applicability in solving these problems (e.g., dynamic programming and probabilistic methods); (iii) practical issues in translating the basic algorithmic ideas into accurate and efficient tools that biologists may use. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "468",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/468.xml",
+        "title": "Tech and Advertising Campaigns",
+        "tags": {
+            "subject": "CS",
+            "description": "Same as ADV 492. See ADV 492",
+            "creditHours": "3 hours",
+            "sectionDateRange": "Meets 20-Jan-26 - 13-Mar-26",
+            "courseSectionInformation": "Same as ADV 492. See ADV 492",
+            "sectionRegistrationNotes": "Restricted to Computer Science or Statistics & Computer Science or Math & Computer Science or Computer Sci & Anthropology or Computer Sci & Astronomy or Computer Sci & Chemistry or Computer Sci & Linguistics or Computer Science&Crop Sciences or Computer Science and Music or Computer Science & Economics or Computer Science & Geog & GIS or Computer Science & Philosophy or Computer Sci & Animal Sci or Computer Science & Education or Computer Science and Physics or ComputerScience&Bioengineering major(s). Restricted to students with Junior or Senior class standing"
+        }
+    },
+    {
+        "id": "473",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/473.xml",
+        "title": "Algorithms",
+        "tags": {
+            "subject": "CS",
+            "description": "Design and analysis techniques, approximation algorithms, randomized algorithms and amortized analysis, and advanced topics such as network flow, linear programming, and dynamic data structures, among others. Same as CSE 414 and MATH 473. 4 undergraduate hours. 4 graduate hours. Prerequisite: CS 374 or ECE 374, and one of CS 361, STAT 361, ECE 313, MATH 362, MATH 461, MATH 463 or STAT 400",
+            "creditHours": "4 hours",
+            "details": "Same as CSE 414 and MATH 473. 4 undergraduate hours. 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 374",
+                    "ECE 374,"
+                ],
+                [
+                    "CS 361",
+                    "STAT 361",
+                    "ECE 313",
+                    "MATH 362",
+                    "MATH 461",
+                    "MATH 463",
+                    "STAT 400"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "474",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/474.xml",
+        "title": "Logic in Computer Science",
+        "tags": {
+            "subject": "CS",
+            "description": "An introduction to mathematical logic from the perspective of computer science, emphasizing both computable aspects of logic, especially automated reasoning, as well as applications of logic to computer science in artificial intelligence, databases, formal methods, and theoretical computer science. Prepares students to use logic as a formal tool to solve problems in computer science and AI. Topics include: syntax, semantics and proofs for propositional and first order logic, the decidable logics and efficient realizations in terms of SAT/SMT solvers, decision and semi-decision procedures for first order logic and several first order logic theories, finite model theory and descriptive complexity. Additional topics include: connections between logic and machine learning, higher order logics, applications of logic to program verification, applications of logic in knowledge representation, proof complexity, modal and temporal logic, Courcelle’s theorem and its applications in parameterized complexity, logic and its role in automatic program synthesis, connections between logic and database query languages. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 173; CS 225; one of CS 374 or ECE 374",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 173"
+                ],
+                [
+                    "CS 225"
+                ],
+                [
+                    "CS 374",
+                    "ECE 374"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "476",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/476.xml",
+        "title": "Program Verification",
+        "tags": {
+            "subject": "CS",
+            "description": "Formal methods for demonstrating correctness and other properties of programs. Invariant assertions; Hoare axiomatics; well-founded orderings for proving termination; structural induction; computational induction; data structures; parallel programs; overview of predicate calculus. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225; one of CS 374, ECE 374 or MATH 414",
+            "creditHours": "3 OR 4 hours",
+            "details": "3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225"
+                ],
+                [
+                    "CS 374",
+                    "ECE 374",
+                    "MATH 414"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "477",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/477.xml",
+        "title": "Formal Software Development Methods",
+        "tags": {
+            "subject": "CS",
+            "description": "Mathematical models, languages, and methods for software specification, development, and verification. Same as ECE 478. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225; one of CS 374, ECE 374 or MATH 414",
+            "creditHours": "3 OR 4 hours",
+            "details": "Same as ECE 478. 3 undergraduate hours. 3 or 4 graduate hours",
+            "prereqs": [
+                [
+                    "CS 225"
+                ],
+                [
+                    "CS 374",
+                    "ECE 374",
+                    "MATH 414"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "482",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/482.xml",
+        "title": "Simulation",
+        "tags": {
+            "subject": "CS",
+            "description": "Same as IE 413. See IE 413",
+            "creditHours": "3 OR 4 hours",
+            "courseSectionInformation": "Same as IE 413. See IE 413"
+        }
+    },
+    {
+        "id": "483",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/483.xml",
+        "title": "Applied Parallel Programming",
+        "tags": {
+            "subject": "CS",
+            "description": "Same as CSE 408 and ECE 408. See ECE 408",
+            "creditHours": "4 hours",
+            "courseSectionInformation": "Same as CSE 408 and ECE 408. See ECE 408"
+        }
+    },
+    {
+        "id": "491",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/491.xml",
+        "title": "Seminar",
+        "tags": {
+            "subject": "CS",
+            "description": "Seminar on topics of current interest as announced in the Class Schedule. 0 to 4 undergraduate hours. 0 to 4 graduate hours. Approved for S/U grading only. May be repeated in the same or separate terms if topics vary to a maximum of 4 hours. Prerequisite: As specified for each topic offering, see Class Schedule or departmental course description",
+            "creditHours": "0 TO 4 hours",
+            "details": "0 to 4 undergraduate hours. 0 to 4 graduate hours. Approved for S/U grading only. May be repeated in the same or separate terms if topics vary to a maximum of 4 hours",
+            "prereqs": [
+                [
+                    "As specified for each topic offering",
+                    "see Class Schedule",
+                    "departmental course description"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "493",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/493.xml",
+        "title": "Senior Project II, ACP",
+        "tags": {
+            "subject": "CS",
+            "description": "Advanced Composition",
+            "creditHours": "3 hours",
+            "details": "3 undergraduate hours. No graduate credit. Credit is not given for both CS 493 and a project course in another engineering department for the same project",
+            "prereqs": [
+                [
+                    "CS 492"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign. Not intended for BS:Computer Engineering -UIUC",
+            "sectionDegreeAttributes": "Advanced Composition course",
+            "sectionCappArea": "Restricted to CS and blended CS majors students",
+            "genEdAttribute": "Advanced Composition"
+        }
+    },
+    {
+        "id": "494",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/494.xml",
+        "title": "Senior Project II",
+        "tags": {
+            "subject": "CS",
+            "description": "Continuation of CS 492. 3 undergraduate hours. No graduate credit. Credit is not given for both CS 494 and a project course in another engineering department for the same project. Prerequisite: CS 492",
+            "creditHours": "3 hours",
+            "details": "3 undergraduate hours. No graduate credit. Credit is not given for both CS 494 and a project course in another engineering department for the same project",
+            "prereqs": [
+                [
+                    "CS 492"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign",
+            "sectionCappArea": "Restricted to CS and blended CS majors students"
+        }
+    },
+    {
+        "id": "497",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/497.xml",
+        "title": "CS Team Project",
+        "tags": {
+            "subject": "CS",
+            "description": "Student teams work with CS faculty to complete a significant project requiring advanced knowledge of CS principles. Project topics vary. 1 to 3 undergraduate hours. No graduate credit. May be repeated in the same term up to 6 hours, if topics vary; may be repeated in separate terms. Prerequisite: For majors only; junior or senior standing required",
+            "creditHours": "1 TO 3 hours",
+            "details": "1 to 3 undergraduate hours. No graduate credit. May be repeated in the same term up to 6 hours, if topics vary; may be repeated in separate terms",
+            "prereqs": [
+                [
+                    "For majors only"
+                ],
+                [
+                    "junior",
+                    "senior standing required"
+                ]
+            ],
+            "sectionApprovalCode": "Instructor Approval Required"
+        }
+    },
+    {
+        "id": "498",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/498.xml",
+        "title": "Special Topics",
+        "tags": {
+            "subject": "CS",
+            "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated in the same or separate terms if topics vary",
+            "creditHours": "1 TO 4 hours",
+            "courseSectionInformation": "1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated in the same or separate terms if topics vary"
+        }
+    },
+    {
+        "id": "499",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/499.xml",
+        "title": "Senior Thesis",
+        "tags": {
+            "subject": "CS",
+            "description": "Advanced Composition",
+            "creditHours": "3 hours",
+            "details": "3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 hours",
+            "prereqs": [
+                [
+                    "Consent of instructor"
+                ]
+            ],
+            "sectionDegreeAttributes": "Advanced Composition course",
+            "sectionApprovalCode": "Instructor Approval Required",
+            "genEdAttribute": "Advanced Composition"
+        }
+    },
+    {
+        "id": "507",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/507.xml",
+        "title": "Topics in Cryptography",
+        "tags": {
+            "subject": "CS",
+            "description": "Modern cryptography helps realize a variety of tasks: from computations on and proofs about secret data, to verifiably offloading computation to untrusted clients, to making programs unintelligible while preserving functionality, to testing untrusted quantum devices. Covers a selection of such cutting-edge topics in cryptography. We will understand how any adversary that counters the security of modern protocols can be transformed into an adversary that contradicts basic mathematical assumptions. We will understand key ideas in recent cryptography research and identify new directions and problems for the future. May be repeated, up to 8 hours in a single term, to a total of 16 graduate hours, if topics vary. Credit is not given towards a degree from multiple offerings of this course if those offerings have significant overlap, as determined by the CS department. Prerequisite: Offerings in separate semesters may specify additional prerequisites each term, depending on the specific topic offered. See section information for additional details",
+            "creditHours": "4 hours",
+            "details": "May be repeated, up to 8 hours in a single term, to a total of 16 graduate hours, if topics vary. Credit is not given towards a degree from multiple offerings of this course if those offerings have significant overlap, as determined by the CS department",
+            "prereqs": [],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Not intended for MCS: Computer Sci OFF - UIUC or MCS:Computer Sci Online -UIUC",
+            "sectionCappArea": "Not intended for First Time Freshman students"
+        }
+    },
+    {
+        "id": "510",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/510.xml",
+        "title": "Advanced Information Retrieval",
+        "tags": {
+            "subject": "CS",
+            "description": "Advanced concepts, models, and algorithms in information retrieval and major recent developments in the field, including historical milestones in information retrieval research, evaluation methodology, vector space retrieval model, probabilistic retrieval models, learning to rank algorithms, probabilistic topic models, information retrieval systems, text analytics, and topics of research frontiers in information retrieval. Prerequisite: One of CS 410, CS 412, CS 446, ECE 449 or LING 406",
+            "creditHours": "4 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "CS 410",
+                    "CS 412",
+                    "CS 446",
+                    "ECE 449",
+                    "LING 406"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Not intended for MCS: Computer Sci OFF - UIUC, MCS:Computer Sci Online -UIUC, or NDEG:Computer Science Onl-UIUC",
+            "sectionCappArea": "Not intended for First Time Freshman students"
+        }
+    },
+    {
+        "id": "521",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/521.xml",
+        "title": "Advanced Topics in Programming Systems",
+        "tags": {
+            "subject": "CS",
+            "description": "Advanced topics in building and verifying software systems, selected from areas of current research such as: model checking and automated verification, testing and automated test generation, program synthesis, runtime verification, machine learning and its applications in the design of verified systems, formal analysis of machine learning algorithms, principles of programming languages and type systems. May be repeated if topics vary. Credit is not given towards a degree from multiple offerings of this course if those offerings have significant overlap, as determined by the CS department. Prerequisite: CS 374 or ECE 374; CS 421. Additional prerequisites or corequisites may be specified each term. See section information",
+            "creditHours": "4 hours",
+            "details": "May be repeated if topics vary. Credit is not given towards a degree from multiple offerings of this course if those offerings have significant overlap, as determined by the CS department",
+            "prereqs": [
+                [
+                    "CS 374",
+                    "ECE 374"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign"
+        }
+    },
+    {
+        "id": "523",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/523.xml",
+        "title": "Advanced Operating Systems",
+        "tags": {
+            "subject": "CS",
+            "description": "Advanced concepts in operating system design and coverage of recent research directions. Resource management for parallel and distributed systems. Interaction between operating system design and computer architectures. Process management, virtual memory, interprocess communication, context switching, parallel and distributed file system designs, persistent objects, process and data migration, load balancing, security, protection. Term projects. Prerequisite: One of CS 423 or CSE 423; one of CS 425 or ECE 428; and one of CS 433 or CSE 422",
+            "creditHours": "4 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "CS 423",
+                    "CSE 423"
+                ],
+                [
+                    "CS 425",
+                    "ECE 428"
+                ],
+                [
+                    "and one of",
+                    "CS 433",
+                    "CSE 422"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Not intended for MCS: Computer Sci OFF - UIUC, MCS:Computer Sci Online -UIUC, or NDEG:Computer Science Onl-UIUC",
+            "sectionCappArea": "Not intended for First Time Freshman students"
+        }
+    },
+    {
+        "id": "525",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/525.xml",
+        "title": "Advanced Distributed Systems",
+        "tags": {
+            "subject": "CS",
+            "description": "Peer-to-peer systems, sensor networks, and fundamental theoretical distributed computing. Review of classical work in each area, and application of design methodologies to explore overlaps across them. Emphasis on protocol design, systems issues, and theory. Reading selections are roughly two-third classical to one-third contemporary. Students write critiques, make presentations, and create a conference paper in a systematic manner. Prerequisite: One of CS 423, CSE 423, CS 425, ECE 428, CS 438 or ECE 438",
+            "creditHours": "4 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "CS 423",
+                    "CSE 423",
+                    "CS 425",
+                    "ECE 428",
+                    "CS 438",
+                    "ECE 438"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Not intended for MCS:Computer Sci Online -UIUC, MCS: Computer Sci OFF - UIUC, MCS: Computer Sci Online-UIUC, or MCS:Computer Sci Online -UIUC",
+            "sectionCappArea": "Not intended for First Time Freshman students"
+        }
+    },
+    {
+        "id": "526",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/526.xml",
+        "title": "Advanced Compiler Construction",
+        "tags": {
+            "subject": "CS",
+            "description": "Incremental and interactive compiling, error correction, code optimization, models of code generators. Prerequisite: CS 426",
+            "creditHours": "4 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "CS 426"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Not intended for MCS: Computer Sci OFF - UIUC, MCS:Computer Sci Online -UIUC, or NDEG:Computer Science Onl-UIUC",
+            "sectionCappArea": "Not intended for First Time Freshman students"
+        }
+    },
+    {
+        "id": "527",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/527.xml",
+        "title": "Topics in Software Engineering",
+        "tags": {
+            "subject": "CS",
+            "description": "Fault-tolerant software, software architecture, software patterns, multi-media software, and knowledge-based approaches to software engineering. Case studies. Prerequisite: CS 428, CSE 429 or CS 429",
+            "creditHours": "4 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "CS 428",
+                    "CSE 429",
+                    "CS 429"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s)"
+        }
+    },
+    {
+        "id": "533",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/533.xml",
+        "title": "Parallel Computer Architecture",
+        "tags": {
+            "subject": "CS",
+            "description": "Theoretical aspects of parallel and pipeline computation; time and processor bounds on classes of computations; data alignment network speed and cost bounds; conflict-free access memories; overall computer system ideas. Same as CSE 522. Prerequisite: CS 433 or CSE 422",
+            "creditHours": "4 hours",
+            "details": "Same as CSE 522",
+            "prereqs": [
+                [
+                    "CS 433",
+                    "CSE 422"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Not intended for MCS: Computer Sci OFF - UIUC, MCS:Computer Sci Online -UIUC, or NDEG:Computer Science Onl-UIUC",
+            "sectionCappArea": "Not intended for First Time Freshman students"
+        }
+    },
+    {
+        "id": "534",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/534.xml",
+        "title": "Advanced Topics in Computer Architecture",
+        "tags": {
+            "subject": "CS",
+            "description": "Current topics in computer architecture, selected from areas of current research such as: energy efficiency, processing in memory, cloud computing, 3-D architectures, security and privacy, hardware and software resiliency, cross-stack design, heterogeneous platforms, approximate computing, mobile computing, machine learning accelerators, and novel computing technologies. May be repeated, if topics vary. Credit is not given towards a degree from multiple offerings of this course, if those offerings have significant overlap, as determined by the CS department. Prerequisite: CS 433 or CSE 422. Additional prerequisites or co-requisites may be specified each term. See Class Schedule information",
+            "creditHours": "4 hours",
+            "details": "May be repeated, if topics vary. Credit is not given towards a degree from multiple offerings of this course, if those offerings have significant overlap, as determined by the CS department",
+            "prereqs": [],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Not intended for MCS: Computer Sci OFF - UIUC, MCS:Computer Sci Online -UIUC, or NDEG:Computer Science Onl-UIUC",
+            "sectionCappArea": "Not intended for First Time Freshman students"
+        }
+    },
+    {
+        "id": "537",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/537.xml",
+        "title": "Advanced Topics in Internet of Things (IoT)",
+        "tags": {
+            "subject": "CS",
+            "description": "Advanced topics in Internet of Things (IoT) algorithms, protocols, architectures, systems, and infrastructures, selected from areas of current research such as: IoT sensors representations and compression, streaming and caching of IoT data, IoT analytics and feature learning, IoT-edge-cloud computing infrastructures, resource optimization for multi-modal IoT systems, applications and human perception of IoT. Students will read and discuss recent research papers and conduct a semester-long research project. May be repeated, if topics vary. Credit towards a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the CS department. Prerequisite: One of CS 425 or ECE 428; one of CS 438 or ECE 438. Additional prerequisites may be specified each term. See section information",
+            "creditHours": "4 hours",
+            "details": "May be repeated, if topics vary. Credit towards a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the CS department",
+            "prereqs": [
+                [
+                    "CS 425",
+                    "ECE 428"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign"
+        }
+    },
+    {
+        "id": "543",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/543.xml",
+        "title": "Computer Vision",
+        "tags": {
+            "subject": "CS",
+            "description": "Same as ECE 549. See ECE 549",
+            "creditHours": "4 hours",
+            "courseSectionInformation": "Same as ECE 549. See ECE 549"
+        }
+    },
+    {
+        "id": "554",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/554.xml",
+        "title": "Parallel Numerical Algorithms",
+        "tags": {
+            "subject": "CS",
+            "description": "Numerical algorithms for parallel computers: parallel algorithms in numerical linear algebra (dense and sparse solvers for linear systems and the algebraic eigenvalue problem), numerical handling of ordinary and partial differential equations, and numerical optimization techniques. Same as CSE 512. Prerequisite: One of CS 450, CSE 401, ECE 491, MATH 450, CS 457, CS 555, CSE 510 or MATH 552",
+            "creditHours": "4 hours",
+            "details": "Same as CSE 512",
+            "prereqs": [
+                [
+                    "CS 450",
+                    "CSE 401",
+                    "ECE 491",
+                    "MATH 450",
+                    "CS 457",
+                    "CS 555",
+                    "CSE 510",
+                    "MATH 552"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Not intended for MCS: Computer Sci OFF - UIUC or MCS:Computer Sci Online -UIUC",
+            "sectionCappArea": "Not intended for First Time Freshman students"
+        }
+    },
+    {
+        "id": "555",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/555.xml",
+        "title": "Numerical Methods for PDEs",
+        "tags": {
+            "subject": "CS",
+            "description": "Numerical techniques for initial and boundary value problems in partial differential equations. Finite difference and finite element discretization techniques, direct and iterative solution methods for discrete problems, and programming techniques and usage of software packages. Same as CSE 510 and MATH 552. Prerequisite: CS 450, CSE 401, ECE 491, MATH 450 or CS 457",
+            "creditHours": "4 hours",
+            "details": "Same as CSE 510 and MATH 552",
+            "prereqs": [
+                [
+                    "CS 450",
+                    "CSE 401",
+                    "ECE 491",
+                    "MATH 450",
+                    "CS 457"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Not intended for MCS: Computer Sci OFF - UIUC, MCS:Computer Sci Online -UIUC, or NDEG:Computer Science Onl-UIUC",
+            "sectionCappArea": "Not intended for First Time Freshman students"
+        }
+    },
+    {
+        "id": "562",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/562.xml",
+        "title": "Advanced Topics in Security, Privacy, and Machine Learning",
+        "tags": {
+            "subject": "CS",
+            "description": "Advanced topics in security and privacy problems in machine learning systems, selected from areas of current research such as: adversarial machine learning, differential privacy, game theory enabled defenses, robust learning methods, machine learning based cybercrime analysis, network intrusion detection, and malware analysis, and machine learning interpretation techniques. May be repeated if topics vary. Credit is not given towards a degree from multiple offerings of this course if those offerings have significant overlap, as determined by the CS department. Prerequisite: One of CS 446 or ECE 449 and one of CS 463 or ECE 424, or equivalent courses, by consent of instructor. Additional prerequisites or corequisites may be specified each term. See section information",
+            "creditHours": "4 hours",
+            "details": "May be repeated if topics vary. Credit is not given towards a degree from multiple offerings of this course if those offerings have significant overlap, as determined by the CS department",
+            "prereqs": [
+                [
+                    "CS 446",
+                    "ECE 449"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Not intended for MCS: Computer Sci OFF - UIUC, MCS:Computer Sci Online -UIUC, or NDEG:Computer Science Onl-UIUC",
+            "sectionCappArea": "Not intended for First Time Freshman students"
+        }
+    },
+    {
+        "id": "563",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/563.xml",
+        "title": "Advanced Computer Security",
+        "tags": {
+            "subject": "CS",
+            "description": "Current research trends in computer and network security. Privacy, tamper-resistance, unwanted traffic, monitoring and surveillance, and critical infrastructure protection. Subtopics will vary depending upon current research trends. Students work in teams in close coordination with the course instructor to develop one of the topics in depth by carrying out background research and an exploratory project. Same as ECE 524. Prerequisite: One of CS 461, CS 463, ECE 422 or ECE 424",
+            "creditHours": "4 hours",
+            "details": "Same as ECE 524",
+            "prereqs": [
+                [
+                    "CS 461",
+                    "CS 463",
+                    "ECE 422",
+                    "ECE 424"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Not intended for MCS: Computer Sci OFF - UIUC or MCS:Computer Sci Online -UIUC",
+            "sectionCappArea": "Not intended for First Time Freshman students"
+        }
+    },
+    {
+        "id": "565",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/565.xml",
+        "title": "Human-Computer Interaction",
+        "tags": {
+            "subject": "CS",
+            "description": "In-depth coverage of advanced topics in human-computer interaction (HCI). Applied models of human performance and attention, design tools for creative design tasks, interruptions and peripheral displays, gestures, and bimanual input, and usability evaluation techniques. Students complete a research-oriented term project of their choosing. Prerequisite: CS 465",
+            "creditHours": "4 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "CS 465"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Not intended for MCS: Computer Sci OFF - UIUC, MCS:Computer Sci Online -UIUC, or NDEG:Computer Science Onl-UIUC",
+            "sectionCappArea": "Not intended for First Time Freshman students"
+        }
+    },
+    {
+        "id": "568",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/568.xml",
+        "title": "User-Centered Machine Learning",
+        "tags": {
+            "subject": "CS",
+            "description": "Introduces guidelines, processes, and systems for designing effective user experiences powered by machine learning models. Topics include design tradeoffs unique to data-driven products and services such as automation versus control, precision versus recall, and personalization versus privacy. Readings from human computer-interaction, product design, cognitive science, machine learning, computer vision, and natural language processing frame in-class design exercises. Students work in teams on a multi-week research project creating or auditing data-driven experiences. Prerequisite: CS 465 or equivalent course work",
+            "creditHours": "4 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "CS 465",
+                    "equivalent course work"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign"
+        }
+    },
+    {
+        "id": "576",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/576.xml",
+        "title": "Topics in Automated Deduction",
+        "tags": {
+            "subject": "CS",
+            "description": "Advanced topics in computer-aided methods for formal deduction, selected from areas of current research, such as: resolution theorem proving strategies, special relations, equational reasoning, unification theory, rewrite systems, mathematical induction, program derivation, hybrid inference systems, and programming with logic. May be repeated in separate terms. Prerequisite: As specified for each topic offering, see Schedule or departmental course description",
+            "creditHours": "2 TO 4 hours",
+            "details": "May be repeated in separate terms",
+            "prereqs": [
+                [
+                    "As specified for each topic offering",
+                    "see Schedule",
+                    "departmental course description"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "583",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/583.xml",
+        "title": "Approximation Algorithms",
+        "tags": {
+            "subject": "CS",
+            "description": "Approximation algorithms for NP-hard problems. Basic and advanced techniques in approximation algorithm design: combinatorial algorithms; mathematical programming methods including linear and semi-definite programming, local search methods, and others. Algorithms for graphs and networks, constraint satisfaction, packing and scheduling. Prerequisite: CS 573, CSE 515 or consent of instructor",
+            "creditHours": "4 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "CS 573",
+                    "CSE 515",
+                    "consent of instructor"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Computer Science or Bioinformatics major(s). Restricted to Graduate - Urbana-Champaign. Not intended for MCS: Computer Sci OFF - UIUC or MCS:Computer Sci Online -UIUC"
+        }
+    },
+    {
+        "id": "588",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/588.xml",
+        "title": "Autonomous Vehicle System Engineering",
+        "tags": {
+            "subject": "CS",
+            "description": "Will introduce students to the computational principles involved in autonomous vehicles, with practical labwork on an actual vehicle. Sensing topics will include vision, lidar and sonar sensing, including state-of-the-art methods for detection, classification, and segmentation. Bayesian filtering methods will be covered in the context of both SLAM and visual tracking. Planning and control topics will cover vehicle dynamics models, state-lattice planning, sampling-based kinodynamic planning, optimal control and trajectory optimization, and some reinforcement learning. Evaluation will involve ambitious challenge projects implemented on a physical vehicle. Prerequisite: CS 374, ECE 374, ECE 484, or equivalent",
+            "creditHours": "4 hours",
+            "details": "",
+            "prereqs": [
+                [
+                    "CS 374",
+                    "ECE 374",
+                    "ECE 484",
+                    "or equivalent"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign"
+        }
+    },
+    {
+        "id": "591",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/591.xml",
+        "title": "Advanced Seminar",
+        "tags": {
+            "subject": "CS",
+            "description": "Seminar on topics of current interest as announced in the Class Schedule. Approved for S/U grading only. May be repeated in the same or separate terms if topics vary. Prerequisite: As specified for each topic offering, see Class Schedule or departmental course description",
+            "creditHours": "0 TO 4 hours",
+            "details": "Approved for S/U grading only. May be repeated in the same or separate terms if topics vary",
+            "prereqs": [
+                [
+                    "As specified for each topic offering",
+                    "see Class Schedule",
+                    "departmental course description"
+                ]
+            ],
+            "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign"
+        }
+    },
+    {
+        "id": "597",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/597.xml",
+        "title": "Individual Study",
+        "tags": {
+            "subject": "CS",
+            "description": "Individual study or reading in a subject not covered in normal course offerings. May be repeated. Prerequisite: Consent of instructor",
+            "creditHours": "2 TO 16 hours",
+            "details": "May be repeated",
+            "prereqs": [
+                [
+                    "Consent of instructor"
+                ]
+            ],
+            "sectionApprovalCode": "Departmental Approval Required"
+        }
+    },
+    {
+        "id": "598",
+        "href": "https://courses.illinois.edu/cisapp/explorer/schedule/2026/spring/CS/598.xml",
+        "title": "Special Topics",
+        "tags": {
+            "subject": "CS",
+            "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. May be repeated in the same or separate terms if topics vary",
+            "creditHours": "2 TO 4 hours",
+            "courseSectionInformation": "May be repeated in the same or separate terms if topics vary",
+            "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign"
+        }
+    }
+]
